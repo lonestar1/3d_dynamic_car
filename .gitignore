@@ -1,0 +1,52 @@
+********** There is a hidden .gitignore sample file in this folder ***********
+
+Create or edit the .gitignore file in your repository to ignore particular types of files.
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Maya Files #
+##############
+*.swatches
+workspace.mel
+
+# Ignore Folders #
+##################
+/Exclude/*
+/.git/*
