@@ -48,5 +48,5 @@ workspace.mel
 
 # Ignore Folders #
 ##################
-/Exclude/*
+/exclude/*
 /.git/*
